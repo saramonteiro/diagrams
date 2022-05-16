@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-15T18:06:48.337Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="Yb47C2zWM_FZr6si_tdJ" version="17.2.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-16T11:55:17.828Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36 Edg/101.0.1210.32" etag="DNt6ssC-2wqsVjYRZQFh" version="17.2.0" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1849" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -83,7 +83,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="X5pfR_SudEPqM6aDpp9W" name="Page-2">
-    <mxGraphModel dx="2553" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2894" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -127,7 +127,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_TjgJpDyAFJxN3ypCaDL-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.017;entryY=-0.106;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="_TjgJpDyAFJxN3ypCaDL-1" target="_TjgJpDyAFJxN3ypCaDL-14">
+        <mxCell id="_TjgJpDyAFJxN3ypCaDL-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.001;entryY=0.444;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="_TjgJpDyAFJxN3ypCaDL-1" target="_TjgJpDyAFJxN3ypCaDL-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="80" y="680" />
@@ -140,8 +140,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_TjgJpDyAFJxN3ypCaDL-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.018;entryY=0.037;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="_TjgJpDyAFJxN3ypCaDL-1" target="_TjgJpDyAFJxN3ypCaDL-16">
+        <mxCell id="_TjgJpDyAFJxN3ypCaDL-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="_TjgJpDyAFJxN3ypCaDL-1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="431" as="targetPoint" />
             <Array as="points">
               <mxPoint x="80" y="680" />
               <mxPoint x="80" y="431" />
@@ -215,11 +216,11 @@
         </mxCell>
         <mxCell id="_TjgJpDyAFJxN3ypCaDL-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.031;entryY=0.074;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-15" y="678" as="sourcePoint" />
-            <mxPoint x="489.73" y="900.22" as="targetPoint" />
+            <mxPoint x="-14.73" y="680" as="sourcePoint" />
+            <mxPoint x="490" y="902.22" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="80" y="678" />
-              <mxPoint x="80" y="900" />
+              <mxPoint x="80.27" y="680" />
+              <mxPoint x="80.27" y="902" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -243,12 +244,12 @@
         </mxCell>
         <mxCell id="_TjgJpDyAFJxN3ypCaDL-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.031;entryY=0.148;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-15" y="674" as="sourcePoint" />
-            <mxPoint x="489.73" y="1058.44" as="targetPoint" />
+            <mxPoint x="-15" y="682" as="sourcePoint" />
+            <mxPoint x="489.73" y="1066.44" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-15" y="680" />
               <mxPoint x="80" y="680" />
-              <mxPoint x="80" y="1058" />
+              <mxPoint x="80" y="1066" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -348,51 +349,51 @@
           <mxGeometry y="30" width="500" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_TjgJpDyAFJxN3ypCaDL-25" value="Apache Kafka" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="500" y="715" width="140" height="60" as="geometry" />
+          <mxGeometry x="500" y="715" width="420" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_TjgJpDyAFJxN3ypCaDL-26" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=18;" vertex="1" parent="_TjgJpDyAFJxN3ypCaDL-25">
-          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        <mxCell id="_TjgJpDyAFJxN3ypCaDL-26" value=" Open source distributed event streaming platform." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=18;" vertex="1" parent="_TjgJpDyAFJxN3ypCaDL-25">
+          <mxGeometry y="30" width="420" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_TjgJpDyAFJxN3ypCaDL-27" value="Azure Databricks" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="490" y="790" width="170" height="60" as="geometry" />
+          <mxGeometry x="490" y="790" width="630" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_TjgJpDyAFJxN3ypCaDL-28" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=18;" vertex="1" parent="_TjgJpDyAFJxN3ypCaDL-27">
-          <mxGeometry y="30" width="170" height="30" as="geometry" />
+        <mxCell id="_TjgJpDyAFJxN3ypCaDL-28" value="Data analytics platform multi-featured. (Data Engineering, Science, ML, etc.)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=18;" vertex="1" parent="_TjgJpDyAFJxN3ypCaDL-27">
+          <mxGeometry y="30" width="630" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_TjgJpDyAFJxN3ypCaDL-29" value="Azure Automation" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="490" y="870" width="170" height="60" as="geometry" />
+          <mxGeometry x="490" y="870" width="290" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_TjgJpDyAFJxN3ypCaDL-30" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=18;" vertex="1" parent="_TjgJpDyAFJxN3ypCaDL-29">
-          <mxGeometry y="30" width="170" height="30" as="geometry" />
+        <mxCell id="_TjgJpDyAFJxN3ypCaDL-30" value="Cloud based Automation resource." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=18;" vertex="1" parent="_TjgJpDyAFJxN3ypCaDL-29">
+          <mxGeometry y="30" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_TjgJpDyAFJxN3ypCaDL-31" value="Logic Apps" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="490" y="950" width="170" height="60" as="geometry" />
+          <mxGeometry x="490" y="949" width="580" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_TjgJpDyAFJxN3ypCaDL-32" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=18;" vertex="1" parent="_TjgJpDyAFJxN3ypCaDL-31">
-          <mxGeometry y="30" width="170" height="30" as="geometry" />
+        <mxCell id="_TjgJpDyAFJxN3ypCaDL-32" value="Cloud Based platform for creating and running automated workflows&#xa; that integrate your apps, data, services, and systems. " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=18;" vertex="1" parent="_TjgJpDyAFJxN3ypCaDL-31">
+          <mxGeometry y="30" width="580" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_TjgJpDyAFJxN3ypCaDL-33" value="Custom Topics" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="490" y="1030" width="170" height="60" as="geometry" />
+          <mxGeometry x="490" y="1041" width="410" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_TjgJpDyAFJxN3ypCaDL-34" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=18;" vertex="1" parent="_TjgJpDyAFJxN3ypCaDL-33">
-          <mxGeometry y="30" width="170" height="30" as="geometry" />
+        <mxCell id="_TjgJpDyAFJxN3ypCaDL-34" value="Custom Topic in Event Gride for publishing event." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=18;" vertex="1" parent="_TjgJpDyAFJxN3ypCaDL-33">
+          <mxGeometry y="30" width="410" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_TjgJpDyAFJxN3ypCaDL-35" value="Queue Storage" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="490" y="1110" width="170" height="60" as="geometry" />
+          <mxGeometry x="490" y="1110" width="400" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_TjgJpDyAFJxN3ypCaDL-36" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=18;" vertex="1" parent="_TjgJpDyAFJxN3ypCaDL-35">
-          <mxGeometry y="30" width="170" height="30" as="geometry" />
+        <mxCell id="_TjgJpDyAFJxN3ypCaDL-36" value=" Service for storing large numbers of messages." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=18;" vertex="1" parent="_TjgJpDyAFJxN3ypCaDL-35">
+          <mxGeometry y="30" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_TjgJpDyAFJxN3ypCaDL-37" value="Power Automate" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="490" y="1190" width="170" height="60" as="geometry" />
+          <mxGeometry x="490" y="1190" width="540" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_TjgJpDyAFJxN3ypCaDL-38" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=18;" vertex="1" parent="_TjgJpDyAFJxN3ypCaDL-37">
-          <mxGeometry y="30" width="170" height="30" as="geometry" />
+        <mxCell id="_TjgJpDyAFJxN3ypCaDL-38" value="No/Low code automation platform for business and IT.operations." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=18;" vertex="1" parent="_TjgJpDyAFJxN3ypCaDL-37">
+          <mxGeometry y="30" width="540" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_TjgJpDyAFJxN3ypCaDL-39" value="WebHooks" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="490" y="1270" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_TjgJpDyAFJxN3ypCaDL-40" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=18;" vertex="1" parent="_TjgJpDyAFJxN3ypCaDL-39">
+        <mxCell id="_TjgJpDyAFJxN3ypCaDL-40" value="Web Endpoint" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=18;" vertex="1" parent="_TjgJpDyAFJxN3ypCaDL-39">
           <mxGeometry y="30" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
